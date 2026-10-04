@@ -15,3 +15,4 @@ Estudante de Análise e Desenvolvimento de Sistemas.
 
 ## Objetivo
 Evoluir em programação e construir projetos para meu portfólio.
+![Snake animation](https://raw.githubusercontent.com/pedro-negreli/pedro-negreli/output/github-contribution-grid-snake.svg)
