@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou Pedro Negrelli 👋
 
-<!--
-**pedro-negreli/pedro-negreli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+## Atualmente estudando
+- C
+- SQL / SQL Server
+- Git e GitHub
+- Linux
+- Banco de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+- Máquina de Vendas em C
+- PIM da faculdade
+
+## Objetivo
+Evoluir em programação e construir projetos para meu portfólio.
